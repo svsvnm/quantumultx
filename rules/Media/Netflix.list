@@ -1,6 +1,9 @@
 # Netflix
 # 请注意，导入此规则将自动创建名为[Netflix]的策略组
 user-agent,Argo*,Netflix
+host-suffix,missav.ai,Netflix
+host-suffix,missav.live,Netflix
+host-suffix,missav.ws,Netflix
 host-suffix,fast.com,Netflix
 host-suffix,Netflix.ca,Netflix
 host-suffix,Netflix.com,Netflix
