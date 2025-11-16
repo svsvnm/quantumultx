@@ -65,12 +65,13 @@ HOST-SUFFIX,steamvideo-a.akamaihd.net,Steam
 HOST-SUFFIX,underlords.com,Steam
 HOST-SUFFIX,valvesoftware.com,Steam
 HOST-SUFFIX,wmsjsteam.com,Steam
-HOST-KEYWORD,steambroadcast,Steam
-HOST-KEYWORD,steamstore,Steam
-HOST-KEYWORD,steamuserimages,Steam
 HOST-SUFFIX,steamcontent.com,Steam
 HOST-SUFFIX,steamcdn-a.akamaihd.net,Steam
 HOST-SUFFIX,steamserver.net,Steam
 HOST-SUFFIX,steampowered.com,Steam
 HOST-SUFFIX,cdn.steampowered.com,Steam
 HOST-SUFFIX,steamstatic.com,Steam
+HOST-KEYWORD,steambroadcast,Steam
+HOST-KEYWORD,steamstore,Steam
+HOST-KEYWORD,steamuserimages,Steam
+
